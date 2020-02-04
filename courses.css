@@ -39,10 +39,12 @@ padding-right: 100px;
 }
 #taet{
 	padding-left: 40px;
+
 }
 #si{
 	border: dotted;
 	border-color: #02ABFF;
 	border-width: 10px;
 	padding: 30px;
+	border-left: 0.01px;
 }
