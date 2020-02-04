@@ -42,16 +42,6 @@ padding-right: 100px;
 
 }
 #si{
-	border: dotted;
-	border-color: #02ABFF;
-	border-width: 10px;
-	padding: 30px;
-	border-radius: 30px;
-    border-left: 10px dotted #02ABFF;
-    border-right: 10px dotted #02ABFF;
-    margin: 0 auto !important;
-    min-height: 100%;
-    padding: 30px;
-    width: 1000px !important;
-    overflow:auto;
+	
+	
 }
