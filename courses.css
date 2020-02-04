@@ -1,0 +1,48 @@
+body{
+	background-color: white;
+}
+#add{
+	padding-right: 40px;
+	padding-top: 40px;
+}
+#target{
+	padding-top: 400px;
+	padding-left: 210px;
+}
+
+li{
+	list-style-type: none;
+}
+#lis{
+	font-family: Handlee;
+	font-weight: bold;
+	font-size: 45px;
+}
+#taget{
+	padding-left: 40px;
+}
+#cours{
+background-color: #01FEFA;
+}
+
+#targt{
+	padding-right: 40px;
+}
+#lol{
+font-family: Handlee;
+color: orange;
+font-size: 90px;
+padding-right: 100px;
+}
+#real{
+	color: #01FEEB;
+}
+#taet{
+	padding-left: 40px;
+}
+#si{
+	border: dotted;
+	border-color: #02ABFF;
+	border-width: 10px;
+	padding: 30px;
+}
